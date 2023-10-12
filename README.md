@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm TK</h1>
-<h3 align="center">I enjoy solving problems through coding. The variety of approaches and the creativity needed appeal to my efficiency mindset.</h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">Test</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krtog&label=Profile%20views&color=0e75b6&style=flat" alt="krtog" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/krtog1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krtog1" height="30" width="40" /></a>
+<a href="x.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krtog1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tkrstic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tkrstic" height="30" width="40" /></a>
 </p>
 
